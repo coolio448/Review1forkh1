@@ -16,6 +16,7 @@ int main() {
 
       default:
          printf(" Invalid Operator ");
+      printf ("enter a valid opererator");
    }
    printf("The value = %f", result);
    return 0;
